@@ -1,6 +1,6 @@
 export default function Card() {
   return (
-    <div className="birthdayCard">
+    <div className="birthdayCard mb-8">
       <div className="cardFront">
         <h3 className="happy">HAPPY BIRTHDAY Love!</h3>
         <div className="balloons">
